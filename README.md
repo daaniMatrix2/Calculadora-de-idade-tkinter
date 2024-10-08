@@ -20,6 +20,6 @@ Além disso, não há dependências externas específicas, pois o Tkinter é uma
    ```bash
    git clone https://github.com/seuusuario/seurepositorio.git
 
-![Captura da Calculadora Tkinter](calculadora tikinter.jpg)
+![Captura da Calculadora Tkinter](calculadora_tikinter.jpg)
 
 
